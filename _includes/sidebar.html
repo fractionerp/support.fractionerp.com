@@ -4,6 +4,16 @@
       <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Fraction ERP Support" class="logo-img">
     </a>
   </div>
+  <div class="search-container">
+    <div class="search-input-wrapper">
+      <i data-lucide="search" class="search-icon"></i>
+      <input type="text" id="menu-search" class="search-input" placeholder="Search menu..." autocomplete="off">
+      <button type="button" id="search-clear" class="search-clear" style="display: none;">
+        <i data-lucide="x"></i>
+      </button>
+    </div>
+    <div id="search-results" class="search-results" style="display: none;"></div>
+  </div>
   <div class="nav-controls">
     <button class="expand-btn" onclick="toggleAllSections(true)">Expand All</button>
     <button class="collapse-btn" onclick="toggleAllSections(false)">Collapse All</button>
@@ -25,3 +35,23 @@
     {% endfor %}
   </nav>
 </aside>
+<script>
+  // Menu data for search functionality
+  window.menuData = [
+    {% for section in site.data.navigation %}
+    {
+      "section": "{{ section.name }}",
+      "sectionIcon": "{{ section.icon }}",
+      "items": [
+        {% for item in section.items %}
+        {
+          "title": "{{ item.title }}",
+          "url": "{{ item.url | relative_url }}",
+          "icon": "{{ item.icon | default: 'file-text' }}"
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
+</script>
