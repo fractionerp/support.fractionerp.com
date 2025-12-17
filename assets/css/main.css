@@ -415,7 +415,7 @@ h1 {
 h2 {
   font-size: 1.25rem;
   font-weight: 600;
-  color: var(--text-primary);
+  color: var(--accent-primary);
   margin: 2rem 0 1rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--card-border);
@@ -424,14 +424,14 @@ h2 {
 h3 {
   font-size: 1.1rem;
   font-weight: 600;
-  color: var(--text-primary);
+  color: var(--accent-primary);
   margin: 1.5rem 0 0.75rem;
 }
 
 h4 {
   font-size: 1rem;
   font-weight: 600;
-  color: var(--text-secondary);
+  color: var(--accent-primary);
   margin: 1rem 0 0.5rem;
 }
 
