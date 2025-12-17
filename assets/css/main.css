@@ -372,6 +372,18 @@ body {
   flex-shrink: 0;
 }
 
+.sidebar-footer a {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.sidebar-footer a:hover {
+  color: var(--accent-primary);
+  text-decoration: underline;
+}
+
 /* Main Content */
 .main-content {
   flex: 1;
