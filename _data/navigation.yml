@@ -70,6 +70,9 @@
     - title: Parallel Work Orders
       url: /parallel-work-orders/
       icon: git-branch
+    - title: Splitting Operations
+      url: /splitting-operations/
+      icon: split
     - title: Scheduling
       url: /scheduling/
       icon: calendar
