@@ -89,6 +89,9 @@
 - name: Production
   icon: factory
   items:
+    - title: Master Production Schedule (MPS)
+      url: /master-production-schedule/
+      icon: calendar-range
     - title: Capacity Management
       url: /capacity-management/
       icon: gauge
