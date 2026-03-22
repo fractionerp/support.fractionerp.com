@@ -95,9 +95,6 @@
     - title: Capacity Management
       url: /capacity-management/
       icon: gauge
-    - title: Manual Scheduling
-      url: /manual-scheduling/
-      icon: calendar-clock
 
 - name: SFDC
   icon: monitor-dot
