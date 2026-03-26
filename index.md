@@ -19,7 +19,7 @@ Fraction ERP is a self-onboarding cloud software application that doesn't requir
 ## Workflows
 
 Understanding the workflow of Fraction ERP will help you quickly pick up how the modules are related. It is also important to understand your own business workflow as part of ERP system implementation. Some adjustments to your current processes are inevitable when implementing any ERP system.
-Download Workflow
+<a href="{{ site.baseurl }}/assets/workflow.pdf" target="_blank">Download Workflow</a>
 ## Looking for more help?
 
 If you can't find the answers here, you can request support from within the Fraction ERP application using the "Get Support" link on the main menu bar. You are also welcome to contact us directly. Online support is free and unlimited with a subscription.
