@@ -171,6 +171,13 @@
       url: /suppliers/
       icon: store
 
+- name: API
+  icon: code
+  items:
+    - title: API Documentation
+      url: /api/
+      icon: file-code
+
 - name: Quality
   icon: badge-check
   items:
