@@ -2,6 +2,9 @@
 title: "Creating Work Orders"
 description: "Create and manage work orders in Fraction ERP for production jobs. Learn to schedule, allocate materials, and track manufacturing progress."
 section: "Works Orders"
+redirect_from:
+  - /works-orders/
+  - /works-orders
 ---
 
 # Creating Work Orders

@@ -2,6 +2,9 @@
 title: "Enquiries and Quotations"
 description: "Create and manage customer enquiries and quotations in Fraction ERP. Generate professional quotes with accurate pricing and lead times."
 section: "Contracts"
+redirect_from:
+  - /enquiries-quotes/
+  - /enquiries-quotes
 ---
 
 # Enquiries and Quotations

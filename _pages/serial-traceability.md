@@ -2,6 +2,9 @@
 title: "Serial Traceability"
 description: "Track products by serial number in Fraction ERP. Maintain full traceability from raw materials through to customer delivery."
 section: "Quality"
+redirect_from:
+  - /traceability/
+  - /traceability
 ---
 
 # Serial Traceability

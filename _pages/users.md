@@ -2,6 +2,9 @@
 title: "Users"
 description: "Manage user accounts, roles, and permissions in Fraction ERP. Control access levels and security settings for your manufacturing team."
 section: "Getting Started"
+redirect_from:
+  - /user-management/
+  - /user-management
 ---
 
 # Users
