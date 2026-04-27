@@ -190,3 +190,6 @@
     - title: Batch Traceability
       url: /batch-traceability/
       icon: boxes
+    - title: SOPs
+      url: /sops/
+      icon: file-text
