@@ -14,7 +14,7 @@ Details for BOM Copy & Templates under Bill of Materials.
   <iframe src="https://player.vimeo.com/video/1115966017" title="BOM Copy & Templates" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Step-by-Step Guide
+## Step-by-Step Guide - to copy a BOM
 
 <div class="stepsy-step">
   <h3 class="stepsy-step-title">Click on the link "BOM" for the item you want to copy from</h3>
