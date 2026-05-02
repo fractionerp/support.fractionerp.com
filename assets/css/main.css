@@ -473,6 +473,23 @@ a:hover {
   border: none;
 }
 
+/* Step Guides */
+.stepsy-step {
+  margin: 1.5rem 0 2rem;
+}
+
+.stepsy-step-title {
+  margin-bottom: 0.75rem;
+}
+
+.stepsy-step-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--card-border);
+  border-radius: 0.5rem;
+}
+
 /* Lists */
 ul, ol {
   margin: 1rem 0;

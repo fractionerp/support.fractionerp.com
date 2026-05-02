@@ -13,3 +13,30 @@ Details for BOM Copy & Templates under Bill of Materials.
 <div class="video-container">
   <iframe src="https://player.vimeo.com/video/1115966017" title="BOM Copy & Templates" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Step-by-Step Guide
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Click on the link "BOM" for the item you want to copy from</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/step-1.png" alt="BOM link for the item to copy from" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Click on the button "Copy"</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/step-2.png" alt="Copy button in the BOM screen" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Click on the input "Part Number"</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/step-3.png" alt="Part Number input in the copy BOM dialog" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Search for the part you want to copy to and click on the item when it appears</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/step-4.png" alt="Part search result selected in the copy BOM dialog" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Confirm what data you want to copy (Parts, Operations or both), click on the button "Continue"</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/step-5.png" alt="Copy options and Continue button in the copy BOM dialog" />
+</div>
