@@ -68,6 +68,7 @@ Details for BOM Copy & Templates under Bill of Materials.
 ## Step-by-Step Guide - to create a BOM from a template
 
 <div class="stepsy-step">
+  <p>Start here: <a href="https://fraction.app/parts">https://fraction.app/parts</a></p>
   <h3 class="stepsy-step-title">From the Parts page, click on the link "+ BOM" next to the part you want to add a BOM to</h3>
   <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/use-template-step-1.png" alt="+ BOM link next to the part to add a BOM to" />
 </div>
