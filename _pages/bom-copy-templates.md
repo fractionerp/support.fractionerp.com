@@ -17,7 +17,7 @@ Details for BOM Copy & Templates under Bill of Materials.
 ## Step-by-Step Guide - to copy a BOM
 
 <div class="stepsy-step">
-  <p>Start here: <a href="https://fraction.app/parts">https://fraction.app/parts</a></p>
+  <p>Start here: <a href="https://fraction.app/parts" target="_blank" rel="noopener noreferrer">https://fraction.app/parts</a></p>
   <h3 class="stepsy-step-title">Click on the link "BOM" for the item you want to copy from</h3>
   <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/step-1.png" alt="BOM link for the item to copy from" />
 </div>
@@ -45,7 +45,7 @@ Details for BOM Copy & Templates under Bill of Materials.
 ## Step-by-Step Guide - to save a BOM template
 
 <div class="stepsy-step">
-  <p>Start here: <a href="https://fraction.app/boms">https://fraction.app/boms</a></p>
+  <p>Start here: <a href="https://fraction.app/boms" target="_blank" rel="noopener noreferrer">https://fraction.app/boms</a></p>
   <h3 class="stepsy-step-title">Find the BOM that you want to create a template from and click on the link "Details"</h3>
   <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/template-step-1.png" alt="Details link for the BOM to create a template from" />
 </div>
@@ -68,7 +68,7 @@ Details for BOM Copy & Templates under Bill of Materials.
 ## Step-by-Step Guide - to create a BOM from a template
 
 <div class="stepsy-step">
-  <p>Start here: <a href="https://fraction.app/parts">https://fraction.app/parts</a></p>
+  <p>Start here: <a href="https://fraction.app/parts" target="_blank" rel="noopener noreferrer">https://fraction.app/parts</a></p>
   <h3 class="stepsy-step-title">From the Parts page, click on the link "+ BOM" next to the part you want to add a BOM to</h3>
   <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/use-template-step-1.png" alt="+ BOM link next to the part to add a BOM to" />
 </div>
