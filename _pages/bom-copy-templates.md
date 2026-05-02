@@ -45,6 +45,7 @@ Details for BOM Copy & Templates under Bill of Materials.
 ## Step-by-Step Guide - to save a BOM template
 
 <div class="stepsy-step">
+  <p>Start here: <a href="https://fraction.app/boms">https://fraction.app/boms</a></p>
   <h3 class="stepsy-step-title">Find the BOM that you want to create a template from and click on the link "Details"</h3>
   <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/template-step-1.png" alt="Details link for the BOM to create a template from" />
 </div>
