@@ -62,3 +62,30 @@ Details for BOM Copy & Templates under Bill of Materials.
   <h3 class="stepsy-step-title">Click on the button "Save Template"</h3>
   <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/template-step-4.png" alt="Save Template button in the template dialog" />
 </div>
+
+## Step-by-Step Guide - to create a BOM from a template
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">From the Parts page, click on the link "+ BOM" next to the part you want to add a BOM to</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/use-template-step-1.png" alt="+ BOM link next to the part to add a BOM to" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">From the Template drop down, search for the template you want to use and select it</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/use-template-step-2.png" alt="Template drop down with a BOM template selected" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Click on the input "BOM Revision" and add a reference (if applicable)</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/use-template-step-3.png" alt="BOM Revision input when creating a BOM from a template" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Click into the Note field and add a reference (if required)</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/use-template-step-4.png" alt="Note field when creating a BOM from a template" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Click on the button "Save"</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/use-template-step-5.png" alt="Save button when creating a BOM from a template" />
+</div>
