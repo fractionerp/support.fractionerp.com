@@ -17,6 +17,7 @@ Details for BOM Copy & Templates under Bill of Materials.
 ## Step-by-Step Guide - to copy a BOM
 
 <div class="stepsy-step">
+  <p><a href="https://fraction.app/parts">https://fraction.app/parts</a></p>
   <h3 class="stepsy-step-title">Click on the link "BOM" for the item you want to copy from</h3>
   <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/step-1.png" alt="BOM link for the item to copy from" />
 </div>
