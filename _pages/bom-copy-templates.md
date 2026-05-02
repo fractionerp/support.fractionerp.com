@@ -40,3 +40,25 @@ Details for BOM Copy & Templates under Bill of Materials.
   <h3 class="stepsy-step-title">Confirm what data you want to copy (Parts, Operations or both), click on the button "Continue"</h3>
   <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/step-5.png" alt="Copy options and Continue button in the copy BOM dialog" />
 </div>
+
+## Step-by-Step Guide - to save a BOM template
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Find the BOM that you want to create a template from and click on the link "Details"</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/template-step-1.png" alt="Details link for the BOM to create a template from" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Click on the button "Save Template"</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/template-step-2.png" alt="Save Template button on the BOM details screen" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Click on the input "Description" and type in a suitable name for your template</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/template-step-3.png" alt="Description input for naming the BOM template" />
+</div>
+
+<div class="stepsy-step">
+  <h3 class="stepsy-step-title">Click on the button "Save Template"</h3>
+  <img class="stepsy-step-image" src="{{ site.baseurl }}/assets/images/bom-copy-templates/template-step-4.png" alt="Save Template button in the template dialog" />
+</div>
