@@ -8,7 +8,8 @@ section: "Contacts"
 
 Details for Suppliers under Contacts.
 
-Video Coming Soon
+## Video Tutorial
 
-A help video for Suppliers is being prepared.
-
+<div class="video-container">
+  <iframe src="https://player.vimeo.com/video/1189840048" title="Suppliers" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
