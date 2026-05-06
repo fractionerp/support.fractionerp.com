@@ -6,7 +6,7 @@ section: "Contacts"
 
 # Suppliers
 
-Details for Suppliers under Contacts.
+Overview of how to add and edit supplier records.
 
 ## Video Tutorial
 

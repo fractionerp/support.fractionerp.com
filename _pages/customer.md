@@ -6,7 +6,7 @@ section: "Contacts"
 
 # Customer
 
-Details for Customer under Contacts.
+Overview of how to add and edit customer records.
 
 ## Video Tutorial
 
