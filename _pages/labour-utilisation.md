@@ -8,6 +8,8 @@ section: "Bill of Materials"
 
 Details for Labour Utilisation under Bill of Materials.
 
+(Available on the Moulding version.)
+
 ## Video Tutorial
 
 <div class="video-container">
