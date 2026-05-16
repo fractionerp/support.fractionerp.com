@@ -8,7 +8,8 @@ section: "Business"
 
 Details for Reports under Business.
 
-Video Coming Soon
+## Video Tutorial
 
-A help video for Reports is being prepared.
-
+<div class="video-container">
+  <iframe src="https://player.vimeo.com/video/1192856621" title="Reports" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
