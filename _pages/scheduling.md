@@ -43,7 +43,7 @@ Auto-schedule finds the earliest available time slot for each operation based on
 - Drag and drop to manually adjust an operation's position on the Gantt chart
 - Running auto-schedule will override any previous drag-and-drop placements (unless pinned)
 
-## Auto-Scheduling Video
+## Scheduling Rules Video
 
 <div class="video-container">
   <iframe src="https://player.vimeo.com/video/1194091655" title="Scheduling" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
@@ -55,7 +55,7 @@ Auto-schedule finds the earliest available time slot for each operation based on
   <iframe src="https://player.vimeo.com/video/1110726912" title="Manual Scheduling" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Scheduling Options Video
+## Workcentre Groups Video
 
 <div class="video-container">
   <iframe src="https://player.vimeo.com/video/1194098212" title="Scheduling Options" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
