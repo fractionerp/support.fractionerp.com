@@ -61,6 +61,9 @@
     - title: Stock Work Orders
       url: /stock-work-orders/
       icon: archive
+    - title: Batch Work Orders
+      url: /batch-work-orders/
+      icon: boxes
     - title: Completing Work Orders
       url: /completing-work-orders/
       icon: check-circle
