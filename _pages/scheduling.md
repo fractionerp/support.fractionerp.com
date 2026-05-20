@@ -49,3 +49,8 @@ Auto-schedule finds the earliest available time slot for each operation based on
   <iframe src="https://player.vimeo.com/video/1194091655" title="Scheduling" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Manual Scheduling Video
+
+<div class="video-container">
+  <iframe src="https://player.vimeo.com/video/1110726912" title="Manual Scheduling" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
