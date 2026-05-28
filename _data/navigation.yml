@@ -125,6 +125,9 @@
     - title: BOM Copy & Templates
       url: /bom-copy-templates/
       icon: copy
+    - title: BOM Price Lists
+      url: /bom-price-lists/
+      icon: list-checks
     - title: Labour Utilisation
       url: /labour-utilisation/
       icon: clock
