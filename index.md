@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Support for Fraction ERP"
-description: "Welcome to Support for Fraction ERP - Fraction ERP Support Documentation"
+title: "FractionERP Support Has Moved"
+description: "FractionERP support has moved inside the FractionERP app."
 section: ""
 ---
 
@@ -27,4 +27,3 @@ If you can't find the answers here, you can request support from within the Frac
 ## Updates
 
 We update our ERP application on a regular basis so some these help pages may become out of date from time to time. Please check product updates here to check for recent changes.
-

@@ -46,6 +46,21 @@ body {
   line-height: 1.6;
 }
 
+.moved-site {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 2rem;
+}
+
+.moved-site__image {
+  display: block;
+  width: min(100%, 760px);
+  height: auto;
+  margin: 0;
+  border-radius: 0;
+}
+
 .layout {
   display: flex;
   min-height: 100vh;

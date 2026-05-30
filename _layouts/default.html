@@ -16,33 +16,22 @@
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title }} - {{ site.title }}</title>
   
-  <!-- Preconnect for performance -->
-  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
-  
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="{{ '/assets/images/logo.png' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/images/logo.png' | relative_url }}">
   
   <!-- CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-  
-  <!-- Lucide Icons (deferred for performance) -->
-  <script src="https://cdn.jsdelivr.net/npm/lucide@latest/dist/umd/lucide.min.js" defer></script>
-  
+
   {% seo %}
 </head>
 <body>
-  <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="Toggle navigation menu">
-    <i data-lucide="menu" class="icon"></i>
-  </button>
-  <div class="layout">
-    {% include sidebar.html %}
-    <main class="main-content" id="main-content">
-      <div class="content-wrapper">
-        {{ content }}
-      </div>
-    </main>
-  </div>
-  <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
+  <main class="moved-site" id="main-content">
+    <img
+      class="moved-site__image"
+      src="{{ '/assets/images/fraction-moved.png' | relative_url }}"
+      alt="FractionERP support has moved inside the FractionERP app."
+    >
+  </main>
 </body>
 </html>
