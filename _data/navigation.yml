@@ -45,6 +45,9 @@
     - title: Price Lists
       url: /price-lists/
       icon: dollar-sign
+    - title: Customer Price Lists
+      url: /customer-price-lists/
+      icon: users
     - title: Customer Part Numbers
       url: /customer-part-numbers/
       icon: hash
